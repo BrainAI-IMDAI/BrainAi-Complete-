@@ -10,10 +10,8 @@ Link to dataset for GANs and detection/classification - https://zenodo.org/recor
 - **Data Augmentation with GAN**: Enhances the dataset by generating synthetic tumor images for different tumor types, improving model performance and generalization.
 - **ResNet Architecture**: Utilizes the powerful ResNet model for accurate classification of various types of brain tumors based on MRI scans.
 
-### 2. Tumor Growth Analysis
-- **Time Series Analysis**: Tracks and analyzes the progression of brain tumors over time, providing insights into the growth patterns and stages of tumor development.
 
-### 3. Early Tumor Prediction
+### 2. Early Tumor Prediction
 - **Predictive Analysis**: Identifies potential early-stage tumors based on MRI data, enabling proactive treatment and improving patient outcomes.
 
 ## Technologies Used
